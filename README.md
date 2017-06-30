@@ -2,7 +2,6 @@
 
 ## Nome:
 * Eduardo Silva Rocha
-## Conceitos
 
 ## Curso
 Pós webDev Alfa Umuarama
