@@ -3,6 +3,7 @@
 class Produto implements Repositorio {
 
     private $conn;
+    private $controller;
 
     public function save() {
         $st = $this->conn->prepare("insert into produto (nome ,valor) values (:nome,:valor)");
