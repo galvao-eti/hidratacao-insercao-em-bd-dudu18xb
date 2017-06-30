@@ -3,5 +3,8 @@
 ## Nome:
 * Eduardo Silva Rocha
 
+## E-mail:
+* eduardorocha460@gmail.com
+
 ## Curso
 Pós webDev Alfa Umuarama
