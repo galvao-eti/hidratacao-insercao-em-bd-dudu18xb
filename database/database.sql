@@ -12,7 +12,7 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 -- Schema trabalho_pos_2017
 -- -----------------------------------------------------
 CREATE SCHEMA IF NOT EXISTS `trabalho_pos_2017` DEFAULT CHARACTER SET utf8 ;
-USE `trabalho_pos_2017` ;
+USE `hidratacao` ;
 
 -- -----------------------------------------------------
 -- Table `trabalho_pos_2017`.`usuario`
