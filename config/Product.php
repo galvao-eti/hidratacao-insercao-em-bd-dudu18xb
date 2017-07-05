@@ -1,5 +1,5 @@
 <?php
-namespace job;
+namespace config;
 
 class Product {
 

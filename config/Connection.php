@@ -1,6 +1,6 @@
 <?php
 
-namespace job;
+namespace config;
 
 class Connection{
     public function novaConexao() {

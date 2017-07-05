@@ -1,5 +1,5 @@
 <?php
-namespace job\Traits;
+namespace config\Traits;
 
 trait Trait {
     public function populaObjeto ( array $dados ) 

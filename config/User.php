@@ -1,7 +1,7 @@
 <?php
-namespace job;
+namespace config;
 
-use job\Connection;
+use config\Connection;
 
 class User {
 
